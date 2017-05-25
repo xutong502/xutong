@@ -7,4 +7,4 @@ var example = require('./example1');
 console.log(example.name);
 example.eat();
 //hahahahaha
-//hahahahah
+//hahahahahdsfdsfdsfdsfdsfdsfdsfdsfdsfdsf
